@@ -13,6 +13,6 @@ st.markdown(f"<h1 style='color: #FFF;'>Senha do Dia: {senha}</h1>", unsafe_allow
 st.markdown("[Builds Mobile](https://builds.unipluscdn.com/unimobile/)")
 st.markdown("[Builds Uniplus](https://utilitarios.intelidata.inf.br/)")
 st.markdown("[Wiki intelidata](https://centraldouniplus.intelidata.inf.br/)")
-st.markdown("[Não clique aqui](https://www.4oito.com.br/media/posts/ananda-figueiredo-voce-e-teimoso_66.jpg)")
+st.markdown("[Não clique aqui](https://portaldagota.com.br/wp-content/uploads/2023/01/dace9248db716c9a51831c8f9c26111dc03595c661826fe0f2afc783ea7133db-rimg-w960-h640-gmir.webp)")
 
 
